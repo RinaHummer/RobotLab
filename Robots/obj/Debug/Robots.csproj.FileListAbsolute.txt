@@ -1,0 +1,5 @@
+D:\Documents\Кпи\IV\ООП\lab\Robots\Robots\bin\Debug\Robots.exe.config
+D:\Documents\Кпи\IV\ООП\lab\Robots\Robots\bin\Debug\Robots.exe
+D:\Documents\Кпи\IV\ООП\lab\Robots\Robots\bin\Debug\Robots.pdb
+D:\Documents\Кпи\IV\ООП\lab\Robots\Robots\obj\Debug\Robots.exe
+D:\Documents\Кпи\IV\ООП\lab\Robots\Robots\obj\Debug\Robots.pdb

@@ -1,0 +1,7 @@
+D:\Documents\Кпи\IV\ООП\lab\Robots\RobotTests\bin\Debug\RobotTests.dll
+D:\Documents\Кпи\IV\ООП\lab\Robots\RobotTests\bin\Debug\RobotTests.pdb
+D:\Documents\Кпи\IV\ООП\lab\Robots\RobotTests\bin\Debug\Robots.exe
+D:\Documents\Кпи\IV\ООП\lab\Robots\RobotTests\bin\Debug\Robots.pdb
+D:\Documents\Кпи\IV\ООП\lab\Robots\RobotTests\obj\Debug\RobotTests.csprojResolveAssemblyReference.cache
+D:\Documents\Кпи\IV\ООП\lab\Robots\RobotTests\obj\Debug\RobotTests.dll
+D:\Documents\Кпи\IV\ООП\lab\Robots\RobotTests\obj\Debug\RobotTests.pdb
